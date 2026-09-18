@@ -1,0 +1,49 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+h1
+{
+    background-color: deeppink;
+    color: white;
+    padding: 30;
+    margin: 0;
+    text-align: center;
+}
+
+div
+{
+    border: 1px solid deeppink; 
+    margin: 10px;
+    padding: 10px;
+}
+
+h3
+{
+    color: deeppink;
+    margin-bottom: 3opx;
+    margin-top: 0;
+}
+
+.pink
+{
+    color: deeppink;
+}
+
+.negrito
+{
+    font-weight: bold;
+}
+
+.italico
+{
+    font-style: italic;
+}
+
+.sublinhado
+{
+    text-decoration: underline;
+}
+
