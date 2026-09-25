@@ -47,3 +47,26 @@ h3
     text-decoration: underline;
 }
 
+.destaque
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+.letracursiva
+{
+    font-family: 'Lucida Handwriting;'
+}
+
+
+.google
+{
+    font-family: 'Bad Script';
+    font-style: 20px;
+    color: deeppink;
+    
+}
+
+
+
+
