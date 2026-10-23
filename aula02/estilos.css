@@ -1,0 +1,108 @@
+body
+{
+    margin : 0;
+    padding: 0;
+}
+
+h1
+{
+    color : white;
+    background-color: #960000;
+    text-align: center;
+    margin : 0;
+    padding: 20px;
+}
+
+.conteudo
+{
+    font-size: 20px;
+    margin : 10px;
+    padding: 10px;
+}
+
+.subtitulo
+{
+    font-size: 30px;
+    color : #960000;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.exemplo1
+{
+    border: 1px solid #960000;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.centralizado
+{
+    display: flex;
+    justify-content: center;
+}
+
+.inicio
+{
+display: flex;
+justify-content: flex-start;
+}
+
+.fim
+{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.around
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.between
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.exemplo2
+{
+    border: 1px solid #960000;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+
+    height: 300px;
+}
+
+.meio
+{
+    display: flex;
+    align-items: center;
+}
+
+.topo
+{
+    display: flex;
+    align-items: flex-start;
+}
+
+.rodape
+{
+    display: flex;
+    align-items: flex-end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
